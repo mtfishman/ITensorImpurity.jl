@@ -1,0 +1,13 @@
+name = "ITensorImpurity"
+uuid = "08376e22-7497-40c7-900c-6aa1aa5719b4"
+authors = ["Matthew Fishman <mfishman@flatironinstitute.org> and contributors"]
+version = "0.0.1"
+
+[compat]
+julia = "1.3"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
