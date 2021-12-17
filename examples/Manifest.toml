@@ -107,6 +107,14 @@ git-tree-sha1 = "fd83fa0bde42e01952757f01149dd968c06c4dba"
 uuid = "0234f1f7-429e-5d53-9886-15a909be8d59"
 version = "1.12.0+1"
 
+[[deps.ITensorImpurity]]
+deps = ["ITensors"]
+git-tree-sha1 = "a66b3d4ead14cb77d4f3bd9d373b22e80cfc4bf0"
+repo-rev = "main"
+repo-url = "https://github.com/mtfishman/ITensorImpurity.jl"
+uuid = "08376e22-7497-40c7-900c-6aa1aa5719b4"
+version = "0.0.1"
+
 [[deps.ITensors]]
 deps = ["ChainRulesCore", "Compat", "Dictionaries", "HDF5", "KrylovKit", "LinearAlgebra", "LinearMaps", "NDTensors", "PackageCompiler", "Pkg", "Printf", "Random", "Requires", "SerializedElementArrays", "StaticArrays", "Strided", "TimerOutputs", "TupleTools", "Zeros", "ZygoteRules"]
 git-tree-sha1 = "8e99d15c467e62cc290e10438c7ebb05052aac74"
