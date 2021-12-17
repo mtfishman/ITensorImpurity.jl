@@ -8,6 +8,6 @@
 .tmp
 .vscode/
 /docs/build/
-Manifest.toml
-benchmark/*.json
-docs/build/
+/Manifest.toml
+/docs/Manifest.toml
+/benchmark/*.json
