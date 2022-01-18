@@ -67,7 +67,7 @@ For a full example of running DMRG and time evolving with a bias potential, see 
 
 * Nonequilibrium Steady-State Transport in Quantum Impurity Models: a Thermofield and Quantum Quench Approach using Matrix Product States, [arXiv:1708.06315](https://arxiv.org/abs/1708.06315)
 * Real-time simulations of nonequilibrium transport in the single-impurity Anderson model, [arXiv:0903.2414](https://arxiv.org/abs/0903.2414)
-* Applying Adaptive Time-Dependent DMRG to Calculate the Conductance of Strongly Correlated Nanostructures, [https://arxiv.org/abs/cond-mat/0601411](arXiv:cond-mat/0601411)
+* Applying Adaptive Time-Dependent DMRG to Calculate the Conductance of Strongly Correlated Nanostructures, [arXiv:cond-mat/0601411](https://arxiv.org/abs/cond-mat/0601411)
 * Conductance through Quantum Dots Studied by Finite Temperature DMRG, [arXiv:cond-mat/0406594](https://arxiv.org/abs/cond-mat/0406594)
 * Thermodynamics of doped Kondo insulator in one dimension: Finite Temperature DMRG Study, [arXiv:cond-mat/9812191](https://arxiv.org/abs/cond-mat/9812191)
 
